@@ -16,6 +16,3 @@ yarn-error.log*
 # Operating system files
 .DS_Store
 Thumbs.db
-
-# change this ❗
-src/subscribers/*
