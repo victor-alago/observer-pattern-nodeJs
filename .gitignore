@@ -11,10 +11,11 @@ yarn-error.log*
 # Database files
 *.sqlite
 *.sqlite3
+*.db
 
 # Operating system files
 .DS_Store
 Thumbs.db
 
 # change this ❗
-subscribers/*
+src/subscribers/*
