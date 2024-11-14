@@ -18,7 +18,7 @@ This project demonstrates a simple RESTful API built with Node.js that implement
 
 ## Endpoints
 
-### POST `/resource`
+### POST `/`
 
 Create a new resource and notify all subscribers.
 
